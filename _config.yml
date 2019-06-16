@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
+title: SteelJin's Blog
+description: Steeljin's personal blog
 author: Agus Makmun
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+about: I'm Information SEcurity Consultant But I like Develope.
+disqus_shortname: Steeljin
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -17,15 +17,15 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/seongjin.kim.10441"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/%EC%84%B1%EC%A7%84-%EA%B9%80-a34371ba/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/seongjin0526"
 
 share:
   twitter_username: github.io
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://seongjin0526.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
