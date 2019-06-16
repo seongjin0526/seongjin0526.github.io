@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post:Jekyll과 Markdown 사용"
+title:  "First Post: Jekyll과 Markdown 사용"
 date:   2019-06-17 01:39:34 +0900
 categories: [jekyll markdown]
 ---
